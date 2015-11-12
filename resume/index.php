@@ -101,6 +101,7 @@
                             <div style="background-image:url(turnjs4/pages/1.jpg?v=3)"></div>
                             <div style="background-image:url(turnjs4/pages/2.jpg?v=3)"></div>
                             <div style="background-image:url(turnjs4/pages/3.jpg?v=3)"></div>
+                            <div style="background-image:url(turnjs4/pages/4.jpg?v=3)"></div>
                         </div>
                     </div>
                 </div>

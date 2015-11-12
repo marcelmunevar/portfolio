@@ -13,7 +13,6 @@
     <!--<link rel="stylesheet" href="/css/non-responsive.css" >-->
     <!-- custom style sheet -->
     <link rel="stylesheet" href="/css/main.css">
-    <link rel="stylesheet" href="/css/slider.css">
 
     <!-- JQUERY -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
@@ -33,16 +32,6 @@
     <!--[if IE 8 ]>    <html lang="en" class="ie8"> <![endif]-->
     <!--[if IE 9 ]>    <html lang="en" class="ie9"> <![endif]-->
     <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
-
-    <script>
-        $(function() {
-            jQuery(".outerWrapper").slider(
-                jQuery(".leftButton"),
-                jQuery(".rightButton"),
-                { 'ButtonsCSS'	:	false }
-            );
-        });
-    </script>
 
 
     <?php
@@ -102,14 +91,14 @@
                 <dt>JQuery Slider Plugin</dt>
                 <dd>A responsive jQuery slider plugin.</dd>
                 <a class="btn btn-primary" href="/resume/code-samples/jquery-slider-plugin/">View Demo &raquo </a>
-                <a class="btn btn-primary" target="_blank" href="http://github.com/Killeramoeba/jquery-slider-plugin/">View Source on Github &raquo </a>
+                <a class="btn btn-primary" target="_blank" href="http://github.com/marcelmunevar/jquery-slider-plugin/">View Source on Github &raquo </a>
             </dl>
 
             <dl>
-                <dt>Blue Responsive</dt>
-                <dd>A responsive page made without bootstrap.</dd>
-                <a class="btn btn-primary" target="_blank" href="http://blue.developer21.com/">View Demo &raquo </a>
-                <a class="btn btn-primary" target="_blank" href="https://github.com/Killeramoeba/blue">View Source on Github &raquo </a>
+                <dt>Responsive Demo</dt>
+                <dd>A responsive page.</dd>
+                <a class="btn btn-primary" target="_blank" href="http://responsive-sample.webdev3.com/">View Demo &raquo </a>
+                <a class="btn btn-primary" target="_blank" href="https://github.com/marcelmunevar/responsive-sample">View Source on Github &raquo </a>
             </dl>
 
             <dl>

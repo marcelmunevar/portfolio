@@ -100,15 +100,21 @@
                 <div class="outerWrapper">
                     <div class="innerWrapper">
                         <div>
-                            <a href="http://www.benjaminmoore.com/" target="_blank">
-                                <img src="img/sites/thumb/bm.jpg" width="188" alt="Benjamin Moore" title="Benjamin Moore">
-                                <p>Benjamin Moore</p>
+                            <a href="http://nova.edu/" target="_blank">
+                                <img src="img/sites/thumb/nova.jpg" width="188" alt="Nova SE University" title="Nova SE University">
+                                <p>Nova SE University</p>
                             </a>
                         </div>
                         <div>
                             <a href="http://www.morris4x4center.com/" target="_blank">
                                 <img src="img/sites/thumb/morris.jpg" width="188" alt="Morris4x4Center" title="Morris4x4Center">
                                 <p>Morris4x4Center</p>
+                            </a>
+                        </div>
+                        <div>
+                            <a href="http://www.benjaminmoore.com/" target="_blank">
+                                <img src="img/sites/thumb/bm.jpg" width="188" alt="Benjamin Moore" title="Benjamin Moore">
+                                <p>Benjamin Moore</p>
                             </a>
                         </div>
                         <div>
