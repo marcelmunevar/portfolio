@@ -103,8 +103,8 @@
 
 
         <h2 id="download">Download</h2>
-        <a style="margin:0 0 10px 0;" class="btn btn-primary" href="http://github.com/Killeramoeba/jquery-slider-plugin/archive/master.zip">Download From Github &raquo </a><br>
-        <a style="margin:0 0 10px 0;" class="btn btn-primary" target="_blank" href="http://github.com/Killeramoeba/jquery-slider-plugin/">View Source on Github &raquo </a>
+        <a style="margin:0 0 10px 0;" class="btn btn-primary" href="http://github.com/marcelmunevar/jquery-slider-plugin/archive/master.zip">Download From Github &raquo </a><br>
+        <a style="margin:0 0 10px 0;" class="btn btn-primary" target="_blank" href="http://github.com/marcelmunevar/jquery-slider-plugin/">View Source on Github &raquo </a>
         <p>All images and files are completely free for both commercial use and private use.</p>
         <p>
             Updated on
