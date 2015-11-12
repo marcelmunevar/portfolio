@@ -90,7 +90,7 @@
             <dl>
                 <dt>JQuery Slider Plugin</dt>
                 <dd>A responsive jQuery slider plugin.</dd>
-                <a class="btn btn-primary" href="/resume/code-samples/jquery-slider-plugin/">View Demo &raquo </a>
+                <a class="btn btn-primary" target="_blank" href="http://jquery-slider-plugin.webdev3.com/">View Demo &raquo </a>
                 <a class="btn btn-primary" target="_blank" href="http://github.com/marcelmunevar/jquery-slider-plugin/">View Source on Github &raquo </a>
             </dl>
 
